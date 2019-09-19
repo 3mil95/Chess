@@ -28,7 +28,7 @@ public class Client implements ActionListener {
 
 
     public Client(){
-        connect("localhost", 4713);
+        connect("213.64.65.119", 4713);
         runText();
     }
 
